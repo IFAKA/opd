@@ -1,9 +1,9 @@
 | 👋 Hi, 
+-
 |
+-
 |
-|
-|
-|
+-
 | I’m FAKA
 <!---
 IFAKA/IFAKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
