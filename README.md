@@ -11,7 +11,7 @@ Resolutions for 2022 :: Blockchain Dev. Escape. Leverage
 
     How to search:  
     [ ctrl + f ] + ;[ shortcut ]  
-    (ie: ctrl+f + ;h to go to hello)  
+    ie: ctrl+f + ;h to go to hello  
     
     Main keyboard shortcuts:  
     [i] thinking - What i thought  
