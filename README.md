@@ -80,7 +80,7 @@ Mine is marketplace-eth. then i deleted files like that:
     └─styles
         └─globals.css
 
-And i modified the index.js like this:
+And in index.js i only left this code:
 
     export default function Home() {
     return (
