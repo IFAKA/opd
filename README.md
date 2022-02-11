@@ -67,7 +67,7 @@ belief to be done.
 I don't understand...  
 
 Ok, let me explain.  
-Rituals implies fear to god if you don't do the action
+Rituals implies fear to god if you don't do the action  
 And that primitive fear, helps to mantain the attention,  
 that's why since the beggining of the human story  
 people do that (there are rituals that last days and  
