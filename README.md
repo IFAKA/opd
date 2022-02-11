@@ -1,11 +1,11 @@
-One page documentary  
+One page documentary.
     
 Hello 192.168.1.1, i'm FAKA and this is your 127.0.0.1  
 
 You are reading the documentary life of a guy who starts  
-from the homeless in one of the most dangerous cities in   
-Argentina and now is trying to learn as much as he can in  
-order to move from there to a better place.  
+homeless in one of the most dangerous cities in Argentina  
+and now is trying to learn as much as he can in order to  
+move from there to a better place.  
   
 Resolutions for 2022 :: Blockchain Dev. Escape. Leverage  
 
@@ -24,6 +24,7 @@ Acknowledgment in XMR:
   ---  
 
     GLOSSARY:  
+    
     thinking
     my = myself
     wr = world  
