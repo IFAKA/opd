@@ -66,17 +66,16 @@ primitive belief to be done.
 I don't understand...  
 
 Ok, let me explain.  
-Any complex activity has to be done using rituals because is  
-the only way that we can do something during a long period  
-of time, that's why since the beggining of the human story  
-people do that (there are rituals that last months and  
+Rituals implies fear to god if you don't do the action
+And that primitive fear, helps to mantain the attention,  
+that's why since the beggining of the human story  
+people do that (there are rituals that last days and  
 people who practice it still remember what to do without  
 any kind of technology)  
-Only nowadays we don't do that, why?  
-Because the world wants dumb people to survive  
+Requirement, believe in the consequences  
 
 System is the enviroment where Habit & Ritual live  
-The next following system is what i am doing now:  
+The next following system is what i am doing:  
 habit & (ritual)  
 
 make my bed  
@@ -92,6 +91,8 @@ rest
 (document)  
 (review)  
 sleep early  
+
+---
 
 [;lscp1p1]  
 
