@@ -45,9 +45,7 @@ Acknowledgment in XMR:
     working & learning
     p1p2 = project 1 part 2 
     c1p2 = concept 1 part 2  
-
----  
-
+      
 [;lscp1p1]  
 
 DAPP MARKETPLACE 1  
