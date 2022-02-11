@@ -65,7 +65,7 @@ primitive belief to be done.
 
 I don't understand...  
 
-Ok, let me explain.
+Ok, let me explain.  
 Any complex activity has to be done using rituals because is  
 the only way that we can do something during a long period  
 of time, that's why since the beggining of the human story  
