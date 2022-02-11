@@ -58,7 +58,7 @@ First, think, second, act (think =/= plan. think === create)
 Then, we are what we do everyday.  
 
 So, i have to create habits? No  
-I have to differenciate this concepts:  
+I have to differenciate this concepts before:  
 Habit is a simple action that i can do without think  
 Ritual is a complex action that needs a charge of a  
 primitive belief to be done.  
