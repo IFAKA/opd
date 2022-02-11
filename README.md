@@ -16,7 +16,7 @@ Resolutions for 2022 :: Blockchain Dev. Escape. Leverage
     [i] thinking - What i thought  
     [w] working - What am i working on  
     [l] learning - What i learned  
-    [s] systems - What i try to do everyday  
+    [r] rituals - What i try to do everyday  
 
 Acknowledgment in XMR:  
 41iea6vmimR1ywpE5wZDqPXQQbvLHT29Wg2uZRPMaE8L9m17zWJf9ME9qkrJ7oWSyJDSTFMNKArCX5t8mvjUZvQo2G1kobu  
