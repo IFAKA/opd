@@ -1,11 +1,11 @@
-My one page documentary.  
+One page documentary.  
     
 Hello 192.168.1.1, i'm FAKA and this is your 127.0.0.1  
 
-You are reading the documentary life of a guy who starts  
+You are reading the documentary life of me, who started  
 homeless in one of the most dangerous cities in Argentina  
-and now is trying to learn as much as he can in order to  
-move from there to a better place.  
+and is trying to #learn how life works in order to #hack it  
+and move from where i am to a better place, everyday.  
   
 Resolutions for 2022 :: Blockchain Dev. Escape. Leverage  
 
@@ -14,10 +14,10 @@ Resolutions for 2022 :: Blockchain Dev. Escape. Leverage
     ie: ctrl+f & ;h to go to hello  
     
     Main keyboard shortcuts:  
-    [i] thinking - What i thought  
-    [w] working - What am i working on  
-    [l] learning - What i learned  
-    [r] rituals - What i try to do everyday  
+    [i] think - i'm thinking in ...  
+    [w] work - I'm working in ...
+    [l] learn - I'm learning ...
+    [r] rituals - I'm trying to do ...
 
 Acknowledgment in XMR:  
 41iea6vmimR1ywpE5wZDqPXQQbvLHT29Wg2uZRPMaE8L9m17zWJf9ME9qkrJ7oWSyJDSTFMNKArCX5t8mvjUZvQo2G1kobu  
@@ -49,20 +49,63 @@ Acknowledgment in XMR:
     p1p2 = project 1 part 2 
     c1p2 = concept 1 part 2  
       
+[;r]  
+
+RITUALS
+
+What you think, you become
+First, think, second, act (think =/= plan. think === create)  
+Then, we are what we do everyday.  
+
+So, i have to create habits? No
+I have to differenciate this concepts:
+Habit is a simple action that i can do without think
+Ritual is a complex action that needs a charge of a  
+primitive belief to be done. 
+
+I don't understand...  
+
+Ok, let me explain.
+Any complex activity has to be done using rituals because is  
+the only way that we can do something during a long period  
+of time, that's why since the beggining of the human story  
+people do that (there are rituals that last months and  
+people who practice it still remember what to do without  
+any kind of technology)  
+Only nowadays we don't do that, why?  
+Because the world wants dumb people to survive
+
+System is the enviroment where Habit & Ritual live  
+The next following system is what i am doing now:
+habit & (ritual)
+
+make my bed
+(meditate)
+calisthenics
+mop rooms
+shower
+(study)
+(document)
+eat
+rest
+(study)
+(document)
+(review)
+sleep early
+
 [;lscp1p1]  
 
 DAPP MARKETPLACE 1  
   
-I gonna build a marketplace using NextJS   
-  
+I gonna build a marketplace using NextJS.  
 I've just only created the project and i
-formatted the code in order to clean it
+formatted the project in order to clean it.
   
-I did this, is the first command to create the project:  
+I did this first command to create the project:  
   
-    npx create-next-app@latest nameOfTheProject
+    npx create-next-app@latest marketplace-eth
     
-Mine is marketplace-eth. then i deleted files like that:
+Then i deleted files and folders:  
 
     marketplace-eth
     ├─pages
@@ -80,7 +123,7 @@ Mine is marketplace-eth. then i deleted files like that:
     └─styles
         └─globals.css
 
-And in index.js i only left this code:
+In index.js i only left this code:
 
     export default function Home() {
     return (
