@@ -1,5 +1,73 @@
-Hi, I’m FAKA
-<!---
-IFAKA/IFAKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+One page documentary  
+    
+Hello 192.168.1.1, this is your 127.0.0.1  
+You are reading the documentary life of a guy who starts  
+from the bottom in the most dangerous cities in Argentina  
+and now is trying to learn as much as he can in order to  
+chage career and move from his country to a better place.  
+  
+Resolutions for 2022 :: Blockchain Dev. Escape. Leverage  
+
+    How to search:  
+    [ ctrl + f ] + ;[shortcut] (ie: ctrl+f + ;h to go to hello)  
+    
+    Main keyboard shortcuts:  
+    [i] ideas - What i thought  
+    [w] working - What am i working on  
+    [l] learning - What i learned  
+    [s] systems - What i try to do everyday  
+
+Acknowledgment in XMR:  
+41iea6vmimR1ywpE5wZDqPXQQbvLHT29Wg2uZRPMaE8L9m17zWJf9ME9qkrJ7oWSyJDSTFMNKArCX5t8mvjUZvQo2G1kobu  
+
+  ---  
+
+GLOSARY:  
+- ; i
+    - my = myself
+    - wr = world  
+
+    - jb = jobs
+    - rs = relationships
+    - be = behaviors
+
+- ; l
+    - sc = smart contracts  
+    - rc = react
+    - js = javascript  
+
+    - cn = chinese  
+    - s = speaking  
+    - l = listening  
+    - r = read  
+    - w = writing  
+
+- ; l & ; w
+    - p1p2 = project 1 part 2 
+    - c1p2 = concept 1 part 2
+
+---  
+
+[;lscp1p1]  
+
+DAPP MARKETPLACE 1  
+  
+First you have to know how this marketplace works, because  
+it's not easy as you think, i know what are you thinking, stop    
+  
+First you have to know how this marketplace works, because  
+it's not easy as you think, i know what are you thinking,  
+stop.First you have to know how this marketplace works,  
+because it's not easy as you think, i know what are you  
+thinking, stop  
+  
+I did this, but i don't know how this code works yet:  
+  
+    #include <iostream>
+    using namespace std;
+
+    int main() 
+    {
+        cout << "Hello, World!";
+        return 0;
+    } 
