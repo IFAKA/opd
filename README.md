@@ -51,17 +51,17 @@ Acknowledgment in XMR:
       
 [;r]  
 
-RITUALS
+RITUALS  
 
-What you think, you become
+What you think, you become  
 First, think, second, act (think =/= plan. think === create)  
 Then, we are what we do everyday.  
 
-So, i have to create habits? No
-I have to differenciate this concepts:
-Habit is a simple action that i can do without think
+So, i have to create habits? No  
+I have to differenciate this concepts:  
+Habit is a simple action that i can do without think  
 Ritual is a complex action that needs a charge of a  
-primitive belief to be done. 
+primitive belief to be done.  
 
 I don't understand...  
 
@@ -73,25 +73,25 @@ people do that (there are rituals that last months and
 people who practice it still remember what to do without  
 any kind of technology)  
 Only nowadays we don't do that, why?  
-Because the world wants dumb people to survive
+Because the world wants dumb people to survive  
 
 System is the enviroment where Habit & Ritual live  
-The next following system is what i am doing now:
-habit & (ritual)
+The next following system is what i am doing now:  
+habit & (ritual)  
 
-make my bed
-(meditate)
-calisthenics
-mop rooms
-shower
-(study)
-(document)
-eat
-rest
-(study)
-(document)
-(review)
-sleep early
+make my bed  
+(meditate)  
+calisthenics  
+mop rooms  
+shower  
+(study)  
+(document)  
+eat  
+rest  
+(study)  
+(document)  
+(review)  
+sleep early  
 
 [;lscp1p1]  
 
