@@ -22,7 +22,7 @@ Acknowledgment in XMR:
 
   ---  
 
-GLOSARY:  
+GLOSSARY:  
 - ; i
     - my = myself
     - wr = world  
