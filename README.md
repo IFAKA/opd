@@ -54,7 +54,8 @@ Acknowledgment in XMR:
 RITUALS  
 
 What you think, you become  
-First, think, second, act (think =/= plan. think === create)  
+First, think, second, act  
+think is not planning, is create in this case    
 Then, we are what we do everyday.  
 
 So, i have to create habits? No  
