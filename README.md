@@ -53,22 +53,41 @@ Acknowledgment in XMR:
 
 DAPP MARKETPLACE 1  
   
-First you have to know how this marketplace works, because  
-it's not easy as you think, i know what are you thinking, stop    
+I gonna build a marketplace using NextJS   
   
-First you have to know how this marketplace works, because  
-it's not easy as you think, i know what are you thinking,  
-stop.First you have to know how this marketplace works,  
-because it's not easy as you think, i know what are you  
-thinking, stop  
+I've just only created the project and i
+formatted the code in order to clean it
   
-I did this, but i don't know how this code works yet:  
+I did this, is the first command to create the project:  
   
-    #include <iostream>
-    using namespace std;
+    npx create-next-app@latest nameOfTheProject
+    
+Mine is marketplace-eth. then i deleted files like that:
 
-    int main() 
-    {
-        cout << "Hello, World!";
-        return 0;
-    } 
+    marketplace-eth
+    ├─pages
+    │  ├─api
+    │  ├─_app.js
+    │  └─index.js
+    └─styles
+        ├─Home.css
+        └─globals.css
+
+    marketplace-eth
+    ├─pages
+    │  ├─_app.js
+    │  └─index.js
+    └─styles
+        └─globals.css
+
+And i modified the index.js like this:
+
+    export default function Home() {
+    return (
+        <>
+        Hello You
+        </>
+    )
+    }
+
+I have to wait till tomorrow in order to continue 
