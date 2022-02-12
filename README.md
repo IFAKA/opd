@@ -55,7 +55,7 @@ RITUALS
 
 What you think, you become  
 First, think, second, act  
-think is not planning, is create in this case    
+(think is not planning, is create in this case)    
 Then, we are what we do everyday.  
 
 So, i have to create habits? No  
@@ -68,14 +68,14 @@ I don't understand...
 
 Ok, let me explain.  
 Rituals implies fear to god if you don't do the action  
-And that primitive fear, helps to mantain the attention,  
-that's why since the beggining of the human story  
-people do that (there are rituals that last days and  
-people who practice it still remember what to do without  
-any kind of technology)  
-Requirement, believe in the consequences  
+And this primitive fear, helps me to mantain the attention,  
+that's why since the beggining of the human story people do  
+that (there are rituals that last days and people who  
+practice it still remember what to do without any kind of  
+technology)  
+Requirement, believe in the consequences, don't sin
 
-System is the enviroment where Habit & Ritual live  
+System is the enviroment where Habit & Ritual live.  
 The next following system is what i am doing:  
 habit & (ritual)  
 
@@ -97,11 +97,11 @@ sleep early
 
 [;lscp1p1]  
 
-DAPP MARKETPLACE 1  
+MARKETPLACE 1  
   
-I gonna build a marketplace using NextJS.  
-I've just only created the project and i
-formatted the project in order to clean it.
+I gonna build a dapp marketplace using NextJS.  
+I've just only created the project and i formatted the  
+project in order to clean it.  
   
 I did this first command to create the project:  
   
