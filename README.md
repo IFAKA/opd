@@ -135,4 +135,50 @@ In index.js i only left this code:
         )
     }
 
-I have to wait till tomorrow in order to continue 
+I have to wait till tomorrow in order to continue.
+
+[;m]
+
+I have to focus and study, but i got trapped with the 
+pleasure again, i can't be alone without falling down.
+
+The only solution is expose myself in public to
+avoid get distracted, and also calculate how much money
+will cost me that (on top of that, insecurity of got rob), maybe the wallet punch can help me.
+Pay my mom each time that i unfocus to force myself, sounds a good idea.
+
+Countradictions, is incredible how common are, 
+double-thinking is in front of me but i can't avoid it.
+
+Depression ? No problems for now.
+Loneliness ? No partner for now.
+Unclear plan ? Study and practice english, nothing more.
+I dont feel passion for nothing ? We got it
+mmm, a hobbie could fill that hole.
+but...
+There is a noscreen nomad notloud lowequipment hobbie to do it offline ?
+
+Hobbies that i don't want to do:
+Instrument: what i want it's not portable (piano).
+Sing / Rap: it's annoying for people who live with me.
+Dance: not interested really, i did it to impress.
+Chess: there are more complex board games.
+Origami: i have to watch videos. they can be printed, 
+i know, but you will need a printer (no portable).
+Bike: even worse, they can kill you for a bike, yes.
+Yoga: i don't like it.
+Gardening: i't not portable unfortunately.
+Cooking: i don't like to cook more than i need.
+Pen spinning: Cool but useless.
+Ham Radio: many equipment.
+Druid: write down what you learn about it.
+Miniature Aquascaping: research. many equipment
+Jewelry Making: i want to make a it for fun, not money.
+
+What i find:
+Chinese: only read and write. ebook, paper, pen.
+Sudoku: can i write it down with a pen in a book.
+Mini Drawing: i need a book and pen.
+Go: i like but i don't want to play it online. wed
+Walk: due the insecurity i have to go to downtown, 
+i can use the free bus card to do it. Mon, Wed, Fri
