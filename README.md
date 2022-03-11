@@ -182,6 +182,6 @@ What i find:
 Chinese: only read and write. ebook, paper, pen.  
 Sudoku: can i write it down with a pen in a book.  
 Mini Drawing: i need a book and pen.  
-Go: i like but i don't want to play it online. wed  
+Go: i like but i don't want to play it online. Thu  
 Walk: due the insecurity i have to go to downtown,  
 i can use the free bus card to do it. Mon, Wed, Fri  
