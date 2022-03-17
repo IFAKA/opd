@@ -190,12 +190,12 @@ i can use the free bus card to do it. Mon, Wed, Fri
 
 [;m]
 
-I've started to study in the library
-and i realized than the efficency goes up.
-i can finish a chapter in 3 ~ 2 hours, insane/
-Usually each chapter took me all day if i study in
-the apartment due the loud neighbors, constructions,
-my thoughts that interrupts me, and the fact of
-people studying around helps me to focus more.
-Cannot get distracted it sounds good, the only way
-to deal with procrastination is not to have option.
+I've started to study in the library  
+and i realized than the efficency goes up.  
+i can finish a chapter in 3 ~ 2 hours, insane  
+Usually each chapter took me all day if i study in  
+the apartment due the loud neighbors, constructions,  
+my thoughts that interrupts me, and the fact of  
+people studying around helps me to focus more.  
+Cannot get distracted it sounds good, the only way  
+to deal with procrastination is not to have option.  
