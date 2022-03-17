@@ -137,6 +137,7 @@ In index.js i only left this code:
 
 I have to wait till tomorrow in order to continue.
 
+
 [;m]
 
 I have to focus and study, but i got trapped with the  
@@ -158,8 +159,8 @@ Unclear plan ? Study and practice english.
 I dont feel passion for nothing ? We got it !!!  
 mmm, a hobbie could fill that hole.  
 but...  
-There is a noscreen nomad notloud lowequipment hobbie  
-to do it offline ?  
+There is a noscreen loudless little equipment 
+hobbie to do it offline ?  
 
 Hobbies that i don't want to do:  
 Instrument: what i want it's not portable (piano).  
@@ -185,3 +186,16 @@ Mini Drawing: i need a book and pen.
 Go: i like but i don't want to play it online. Thu  
 Walk: due the insecurity i have to go to downtown,  
 i can use the free bus card to do it. Mon, Wed, Fri  
+
+
+[;m]
+
+I've started to study in the library
+and i realized than the efficency goes up.
+i can finish a chapter in 3 ~ 2 hours, insane/
+Usually each chapter took me all day if i study in
+the apartment due the loud neighbors, constructions,
+my thoughts that interrupts me, and the fact of
+people studying around helps me to focus more.
+Cannot get distracted it sounds good, the only way
+to deal with procrastination is not to have option.
