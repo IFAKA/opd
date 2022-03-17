@@ -199,3 +199,6 @@ my thoughts that interrupts me, and the fact of
 people studying around helps me to focus more.  
 Cannot get distracted it sounds good, the only way  
 to deal with procrastination is not to have option.  
+
+And now i have more time to spend in some hobbie.  
+I will try some this month.  
