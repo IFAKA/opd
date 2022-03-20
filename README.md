@@ -190,15 +190,43 @@ i can use the free bus card to do it. Mon, Wed, Fri
 
 [;m]
 
-I've started to study in the library  
-and i realized than the efficency goes up.  
-i can finish a chapter in 3 ~ 2 hours, insane  
-Usually each chapter took me all day if i study in  
-the apartment due the loud neighbors, constructions,  
-my thoughts that interrupts me, and the fact of  
-people studying around helps me to focus more.  
-Cannot get distracted it sounds good, the only way  
-to deal with procrastination is not to have option.  
+I've started to study in the library and i realized than the efficency goes up.  
+i can finish a chapter in 3 ~ 2 hours, insane. Usually each chapter took me all day if i study in the apartment due the loud neighbors, constructions, my thoughts that interrupts me, and the fact of people studying around helps me to focus more.  
+Cannot get distracted it sounds good, the only way to deal with procrastination is not to have option.  
 
 And now i have more time to spend in some hobbie.  
 I will try some this month.  
+
+[;m]
+
+The minimalist noscreen nosound little-equipment 
+hobbie to do it offline exist.  
+
+Do you know what takuzu is ?  
+Is a logic puzzle that can be solved just by reasoning.  
+Only needs paper and pen.  
+
+How it looks :
+[1][ ][ ][0][ ][ ]
+[ ][ ][0][0][ ][1]
+[ ][0][0][ ][ ][1]
+[ ][ ][ ][ ][ ][ ]
+[0][0][ ][1][ ][ ]
+[ ][1][ ][ ][0][0]
+
+Rules:
+Each box contains zero or one.
+Are not allowed more than two equal numbers each other.
+Each row or column contain an equal number of zeros and ones.
+Any row or column cannot be exactly equal to another.
+
+Solution:
+[1][0][1][0][1][0]
+[0][1][0][0][1][1]
+[1][0][0][1][0][1]
+[0][1][1][0][1][0]
+[0][0][1][1][0][1]
+[1][1][0][1][0][0]
+
+Simple.
+tip: if you have doubts you can search "binary puzzle solution"
