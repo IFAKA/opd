@@ -17,7 +17,8 @@ Resolutions for 2022 :: Blockchain Dev. Escape. Leverage
     [r] rituals - I'm trying to do ...
 
 Acknowledgment in XMR:  
-41iea6vmimR1ywpE5wZDqPXQQbvLHT29Wg2uZRPMaE8L9m17zWJf9ME9qkrJ7oWSyJDSTFMNKArCX5t8mvjUZvQo2G1kobu  
+86pHAz2WnHDJGjnvEJ8vJga4xMCFFHQczJm4dagp4pLoXrTNzZmvjFxLrrwN4B74pMGto3kugb4V7d7215H9UuW6HNNE2yD
+  
 
   ---  
 
