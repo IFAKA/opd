@@ -2,10 +2,7 @@ One page documentary.
     
 Hello 192.168.1.1, i'm FAKA and this is your 127.0.0.1  
 
-You are reading the documentary life of me, who started  
-homeless in one of the most dangerous cities in Argentina  
-and is trying to #learn how life works in order to #hack it  
-and move from where i am to a better place, everyday.  
+You are reading the documentary life of me, who started homeless in one of the most dangerous cities in Argentina and is trying to #learn how life works in order to #hack it and move from where i am to a better place, everyday.  
   
 Resolutions for 2022 :: Blockchain Dev. Escape. Leverage  
 
@@ -60,19 +57,13 @@ Then, we are what we do everyday.
 
 So, i have to create habits? No  
 I have to differenciate this concepts before:  
-Habit is a simple action that i can do without think  
-Ritual is a complex action that needs a primitive  
-belief to be done.  
+Habit is a simple action that i can do without think.  
+Ritual is a complex action that needs a primitive belief to be done.  
 
 I don't understand...  
 
 Ok, let me explain.  
-Rituals implies fear to god if you don't do the action  
-And this primitive fear, helps me to mantain the attention,  
-that's why since the beggining of the human story people do  
-that (there are rituals that last days and people who  
-practice it still remember what to do without any kind of  
-technology)  
+Rituals implies fear to god if you don't do the action And this primitive fear, helps me to mantain the attention, that's why since the beggining of the human story people do that (there are rituals that last days and people who practice it still remember what to do without any kind of technology)  
 Requirement, believe in the consequences, don't sin
 
 System is the enviroment where Habit & Ritual live.  
@@ -100,8 +91,7 @@ sleep early
 MARKETPLACE 1  
   
 I gonna build a dapp marketplace using NextJS.  
-I've just only created the project and i formatted the  
-project in order to clean it.  
+I've just only created the project and i formatted the project in order to clean it.  
   
 I did this first command to create the project:  
   
@@ -140,15 +130,10 @@ I have to wait till tomorrow in order to continue.
 
 [;m]
 
-I have to focus and study, but i got trapped with the  
-pleasure again, i can't be alone without falling down.  
+I have to focus and study, but i got trapped with the pleasure again, i can't be alone without falling down.  
 
-The only solution is expose myself in public to  
-avoid get distracted, and also calculate how much money  
-will cost me that (on top of that, insecurity of  
-got rob, maybe the wallet punch can help me.  
-Pay my mom each time that i unfocus to force myself,  
-sounds a good idea.
+The only solution is expose myself in public to avoid get distracted, and also calculate how much money will cost me that (on top of that, insecurity of got rob, maybe the wallet punch can help me.  
+Pay my mom each time that i unfocus to force myself, sounds a good idea.  
 
 Countradictions, is incredible how common are,  
 double-thinking is in front of me but i can't avoid it.  
@@ -167,8 +152,7 @@ Instrument: what i want it's not portable (piano).
 Sing / Rap: it's annoying for people who live with me.  
 Dance: not interested really, i did it to impress.  
 Chess: there are more complex board games.  
-Origami: i have to watch videos. they can be printed,  
-i know, but you will need a printer (no portable).  
+Origami: i have to watch videos. tutorials can be printed, but you will need a printer (no portable).  
 Bike: even worse, they can kill you for a bike, yes.  
 Yoga: i don't like it.  
 Gardening: i't not portable unfortunately.  
@@ -184,8 +168,7 @@ Chinese: only read and write. ebook, paper, pen.
 Sudoku: can i write it down with a pen in a book.  
 Mini Drawing: i need a book and pen.  
 Go: i like but i don't want to play it online. Thu  
-Walk: due the insecurity i have to go to downtown,  
-i can use the free bus card to do it. Mon, Wed, Fri  
+Walk: due the insecurity i have to go to downtown, i can use the free bus card to do it. Mon, Wed, Fri  
 
 
 [;m]
@@ -199,34 +182,33 @@ I will try some this month.
 
 [;m]
 
-The minimalist noscreen nosound little-equipment 
-hobbie to do it offline exist.  
+The minimalist noscreen nosound little-equipment hobbie to do it offline exist.  
 
 Do you know what takuzu is ?  
 Is a logic puzzle that can be solved just by reasoning.  
 Only needs paper and pen.  
 
-How it looks :
-[1][ ][ ][0][ ][ ]
-[ ][ ][0][0][ ][1]
-[ ][0][0][ ][ ][1]
-[ ][ ][ ][ ][ ][ ]
-[0][0][ ][1][ ][ ]
-[ ][1][ ][ ][0][0]
+How it looks:  
+[1][ ][ ][0][ ][ ]  
+[ ][ ][0][0][ ][1]  
+[ ][0][0][ ][ ][1]  
+[ ][ ][ ][ ][ ][ ]  
+[0][0][ ][1][ ][ ]  
+[ ][1][ ][ ][0][0]  
 
-Rules:
-Each box contains zero or one.
-Are not allowed more than two equal numbers each other.
-Each row or column contain an equal number of zeros and ones.
-Any row or column cannot be exactly equal to another.
+Rules:  
+Each box contains zero or one.  
+Are not allowed more than two equal numbers each other.  
+Each row or column contain an equal number of zeros and ones.  
+Any row or column cannot be exactly equal to another.  
 
-Solution:
-[1][0][1][0][1][0]
-[0][1][0][0][1][1]
-[1][0][0][1][0][1]
-[0][1][1][0][1][0]
-[0][0][1][1][0][1]
-[1][1][0][1][0][0]
+Solution:  
+[1][0][1][0][1][0]  
+[0][1][0][0][1][1]  
+[1][0][0][1][0][1]  
+[0][1][1][0][1][0]  
+[0][0][1][1][0][1]  
+[1][1][0][1][0][0]  
 
 Simple.
-tip: if you have doubts you can search "binary puzzle solution"
+tip: if you have doubts you can search "binary puzzle solution"  
