@@ -1,59 +1,21 @@
 One page documentary.  
-    
-Hello 192.168.1.1, i'm FAKA and this is your 127.0.0.1  
-
-You are reading the documentary life of me, who started homeless in one of the most dangerous cities in Argentina and is trying to #learn how life works in order to #hack it and move from where i am to a better place, everyday.  
   
-Resolutions for 2022 :: Blockchain Dev. Escape. Leverage  
+Hello [user ip || name, it will be better, trying to reach who is the person than pay the internet using web osint tools ], i'm FAKA and this is my home, you are welcome !!!
 
-    How to search:  
-    [ ctrl + f ] & ;[ shortcut ]  
-    ie: ctrl+f & ;h to go to hello  
-    
-    Main keyboard shortcuts:  
-    [i] think - i'm thinking in ...  
-    [w] work - I'm working in ...
-    [l] learn - I'm learning ...
-    [r] rituals - I'm trying to do ...
+You are reading the documentation of my life, who started homeless in one of the most dangerous cities in Argentina and is trying to learn how life works in order to hack it and move from where i am to a better place.  
+
+Resolutions for 2022: Blockchain Dev. Escape. Leverage  
+
+How to search: Press [CTRL + f], once the search bar is open, then type semicolon and press enter to cycle through the sections.  
 
 Acknowledgment in XMR:  
-86pHAz2WnHDJGjnvEJ8vJga4xMCFFHQczJm4dagp4pLoXrTNzZmvjFxLrrwN4B74pMGto3kugb4V7d7215H9UuW6HNNE2yD
-  
+86pHAz2WnHDJGjnvEJ8vJga4xMCFFHQczJm4dagp4pLoXrTNzZmvjFxLrrwN4B74pMGto3kugb4V7d7215H9UuW6HNNE2y  
 
-  ---  
-
-    GLOSSARY:  
-    
-    thinking
-    my = myself
-    wr = world  
-
-    jb = jobs
-    rs = relationships
-    be = behaviors
-
-    learning
-    sc = smart contracts  
-    rc = react
-    js = javascript  
-
-    cn = chinese  
-    s = speaking  
-    l = listening  
-    r = read  
-    w = writing  
-
-    working & learning
-    p1p2 = project 1 part 2 
-    c1p2 = concept 1 part 2  
-      
-[;r]  
-
-RITUALS  
+[;1] RITUALS  
 
 What you think, you become  
 First, think, second, act  
-(think is not planning, is create in this case)    
+(think is not planning, is create in this case)  
 Then, we are what we do everyday.  
 
 So, i have to create habits? No  
@@ -65,7 +27,7 @@ I don't understand...
 
 Ok, let me explain.  
 Rituals implies fear to god if you don't do the action And this primitive fear, helps me to mantain the attention, that's why since the beggining of the human story people do that (there are rituals that last days and people who practice it still remember what to do without any kind of technology)  
-Requirement, believe in the consequences, don't sin
+Requirement, believe in the consequences, don't sin.  
 
 System is the enviroment where Habit & Ritual live.  
 The next following system is what i am doing:  
@@ -85,59 +47,14 @@ rest
 (review)  
 sleep early  
 
----
-
-[;lscp1p1]  
-
-MARKETPLACE 1  
-  
-I gonna build a dapp marketplace using NextJS.  
-I've just only created the project and i formatted the project in order to clean it.  
-  
-I did this first command to create the project:  
-  
-    npx create-next-app@latest marketplace-eth
-    
-Then i deleted files and folders:  
-
-    marketplace-eth
-    ├─pages
-    │  ├─api
-    │  ├─_app.js
-    │  └─index.js
-    └─styles
-        ├─Home.css
-        └─globals.css
-
-    marketplace-eth
-    ├─pages
-    │  ├─_app.js
-    │  └─index.js
-    └─styles
-        └─globals.css
-
-In index.js i only left this code:
-
-    export default function Home() {
-    return (
-            <>
-                Hello You
-            </>
-        )
-    }
-
-I have to wait till tomorrow in order to continue.
-
-
-[;m]
+[;2] EMPTINESS
 
 I have to focus and study, but i got trapped with the pleasure again, i can't be alone without falling down.  
 
 The only solution is expose myself in public to avoid get distracted, and also calculate how much money will cost me that (on top of that, insecurity of got rob, maybe the wallet punch can help me.  
 Pay my mom each time that i unfocus to force myself, sounds a good idea.  
 
-Countradictions, is incredible how common are,  
-double-thinking is in front of me but i can't avoid it.  
+Countradictions, is incredible how common are, double-thinking is in front of me but i can't avoid it.  
 
 Depression ? No problems for now.  
 Loneliness ? No partner for now.  
@@ -145,8 +62,7 @@ Unclear plan ? Study and practice english.
 I dont feel passion for nothing ? We got it !!!  
 mmm, a hobbie could fill that hole.  
 but...  
-There is a noscreen loudless little equipment 
-hobbie to do it offline ?  
+There is a noscreen loudless little equipment hobbie to do it offline ?  
 
 Hobbies that i don't want to do:  
 Instrument: what i want it's not portable (piano).  
@@ -172,7 +88,7 @@ Go: i like but i don't want to play it online. Thu
 Walk: due the insecurity i have to go to downtown, i can use the free bus card to do it. Mon, Wed, Fri  
 
 
-[;m]
+[;3] NEW STUDY METHOD
 
 I've started to study in the library and i realized than the efficency goes up.  
 i can finish a chapter in 3 ~ 2 hours, insane. Usually each chapter took me all day if i study in the apartment due the loud neighbors, constructions, my thoughts that interrupts me, and the fact of people studying around helps me to focus more.  
@@ -181,7 +97,7 @@ Cannot get distracted it sounds good, the only way to deal with procrastination 
 And now i have more time to spend in some hobbie.  
 I will try some this month.  
 
-[;m]
+[;4] THE HOBBIE
 
 The minimalist noscreen nosound little-equipment hobbie to do it offline exist.  
 
@@ -190,12 +106,12 @@ Is a logic puzzle that can be solved just by reasoning.
 Only needs paper and pen.  
 
 How it looks:  
-[1][ ][ ][0][ ][ ]  
-[ ][ ][0][0][ ][1]  
-[ ][0][0][ ][ ][1]  
-[ ][ ][ ][ ][ ][ ]  
-[0][0][ ][1][ ][ ]  
-[ ][1][ ][ ][0][0]  
+[1][ㅤ][ㅤ][0][ㅤ][ㅤ]  
+[ㅤ][ㅤ][0][0][ㅤ][1]  
+[ㅤ][0][0][ㅤ][ㅤ][1]  
+[ㅤ][ㅤ][ㅤ][ㅤ][ㅤ][ㅤ]  
+[0][0][ㅤ][1][ㅤ][ㅤ]  
+[ㅤ][1][ㅤ][ㅤ][0][0]  
 
 Rules:  
 Each box contains zero or one.  
@@ -213,3 +129,20 @@ Solution:
 
 Simple.
 tip: if you have doubts you can search "binary puzzle solution"  
+
+[;5] BUS PROBLEM
+
+There are many libraries in my city that i didn't know that exist.  
+I will try to go to each in order to not get bored, and are free.  
+
+I other news, takuzu is a excellent puzzle but is easy by the size.  
+Maybe i can increase the size from 8x8 to 12x12 and try what happend.  
+
+And also is quite hard to write in the bus, even sit, streets condition are shit.  
+I have to do something in the bus, besides watch the windows or the people in there.  
+What activity can i do while i am in a earthquake-bus ?  
+Origami, rubic, draw, sing, play instrument, play on the phone. 
+Based on cheapness, loudness, screenless the winner is Origami.
+What i have to do then ?  
+I have to do it before in order to replicate it in the bus without screen.  
+
