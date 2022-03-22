@@ -106,12 +106,12 @@ Is a logic puzzle that can be solved just by reasoning.
 Only needs paper and pen.  
 
 How it looks:  
-[1][ㅤ][ㅤ][0][ㅤ][ㅤ]  
-[ㅤ][ㅤ][0][0][ㅤ][1]  
-[ㅤ][0][0][ㅤ][ㅤ][1]  
-[ㅤ][ㅤ][ㅤ][ㅤ][ㅤ][ㅤ]  
-[0][0][ㅤ][1][ㅤ][ㅤ]  
-[ㅤ][1][ㅤ][ㅤ][0][0]  
+[1][ ][ ][0][ ][ ]  
+[ ][ ][0][0][ ][1]  
+[ ][0][0][ ][ ][1]  
+[ ][ ][ ][ ][ ][ ]  
+[0][0][ ][1][ ][ ]  
+[ ][1][ ][ ][0][0]  
 
 Rules:  
 Each box contains zero or one.  
