@@ -1,6 +1,6 @@
 One page documentary.  
   
-Hello [user ip || name, it will be better, trying to reach who is the person than pay the internet using web osint tools ], i'm FAKA and this is my home, you are welcome !!!
+Hello [user ip ], i'm FAKA and this is my home, you are welcome !!!
 
 You are reading the documentation of my life, who started homeless in one of the most dangerous cities in Argentina and is trying to learn how life works in order to hack it and move from where i am to a better place.  
 
